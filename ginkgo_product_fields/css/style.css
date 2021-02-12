@@ -1,0 +1,2 @@
+.picto-list{display:inline-block;padding:0}.picto-list img{width:80px;height:80px}.picto-list li{list-style:none;display:inline-block}.picto-list label{border:6px solid #000}.picto-list input{opacity:0;width:0;height:0}.picto-list input:checked~label{border:6px solid darkgreen;background-color:green}.picto-list .picto-label{padding:5px;margin:0 10px 10px 0;background-color:#000}
+/*# sourceMappingURL=thrive_fields.css.map */
